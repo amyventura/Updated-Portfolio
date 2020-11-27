@@ -13,6 +13,11 @@ a:visited {
     margin-top: 5%;
 }
 
+h5{
+    color: #008B8B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .media {
     margin: 5%;
     width: 100%;
@@ -50,7 +55,7 @@ p {
     left: 0;
 }
 
-.phone, .email, .github, .linkedIn, .repo, .resume, h5 {
+.phone, .email, .github, .linkedIn, .repo, .resume {
     color: #6495ED !important;
     font-family: Arial, Helvetica, sans-serif;
 }
